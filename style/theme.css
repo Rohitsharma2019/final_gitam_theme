@@ -771,7 +771,7 @@ i.icon {
     color: var(--color_secondary);
 }
 #footer .footer-main {
-    background: #f15b47;
+    background: #b1040e;
     padding: 0px 0 0px;
 }
 #page-login-index .campusinfo {
@@ -3988,7 +3988,7 @@ button.close:focus,
     max-width: 100%;
 }
 #header {
-    background-color: #f15b47;
+    background-color: #b1040e;
  }
  .btn-primary {
     background-color: #981f2b;
@@ -4005,7 +4005,7 @@ button.close:focus,
  }
 
  #footer .footer-main {
-    padding: 14px;
+    padding: 12px;
  }
  #footer .footer-main h2 {
     font-weight: 700;
