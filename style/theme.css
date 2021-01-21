@@ -3782,8 +3782,8 @@ nav .popover-region .content-item-container:hover .view-more {
     padding: 1.25rem;
 }
 .list-group-item.active {
-    background: #f78769;
-    border-color: #f78769;
+    background: #b1040e;
+    border-color: #b1040e;
 }
 
 }
@@ -4181,4 +4181,8 @@ th[colspan="1"] {
 }
 i.fa.fa-apple, i.fa.fa-play, i.fa.fa-support {
     padding-right: 10px;
+}
+
+#nav-drawer .list-group .font-weight-bold {
+    font-weight: 400 !important;
 }
